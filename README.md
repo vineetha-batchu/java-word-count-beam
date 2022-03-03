@@ -1,6 +1,6 @@
 ## Vineetha Batchu
 
-### A sample wordcount eample pipeline using apache beam Java SDK
+### A sample wordcount example pipeline using apache beam Java SDK
 ### Commands for this project
 
 ` java --version`
